@@ -233,7 +233,7 @@ When sending request, the client can send data with using different http methods
 # and assign to the static route of ('login')
 
 
-# Add a statement to run the Flask application which can be reached from any host on port 80.
+# Add a statement torun the Flask application which can be reached from any host on port 80.
 
 
 # app.run(host='0.0.0.0', port=80)
